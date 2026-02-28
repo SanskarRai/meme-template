@@ -17,7 +17,7 @@ The extension monitors both your integrated terminal and your active code editor
 
 To install the extension from a `.vsix` file (e.g., from our GitHub Releases):
 
-1.  **Download** the `meme-terminal-x.x.x.vsix` file from the [Releases](https://github.com/SanskarRai/meme-template/releases) page.
+1.  **Download** the `meme-terminal-v0.0.1.vsix` file from the [Releases](https://github.com/SanskarRai/meme-template/releases) page.
 2.  **Open VS Code**.
 3.  Go to the **Extensions** view (`Ctrl+Shift+X`).
 4.  Click the `...` (Views and More Actions) menu in the top right of the Extensions view.
